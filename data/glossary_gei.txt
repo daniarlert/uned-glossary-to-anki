@@ -1,0 +1,1135 @@
+:Actividad ficticia.
+{<font size="3">
+    <p>Enlace lógico que permite reflejar formalmente las prelaciones existentes entre las diferentes actividades que forman el proyecto. </p></font>} text/html
+:Activo circulante.
+{<font size="3">
+    <p>Conjunto de bienes y derechos que no permanecen en la empresa, sino que circulan por ella y son reemplazados por otros. </p></font>} text/html
+:Activo fijo.
+{<font size="3">
+    <p>Conjunto de bienes y derechos que permanecen en la empresa durante un período prolongado de tiempo. </p></font>} text/html
+:Alta dirección.
+{<font size="3">
+    <p>Nivel más elevado de la pirámide directiva. </p></font>} text/html
+:Amenazas.
+{<font size="3">
+    <p>Situaciones negativas del entorno que pueden atentar contra la empresa y sus proyectos, por lo que es preciso identificarlas anticipadamente para sortearlas con unas estrategias adecuadas. </p></font>} text/html
+:Amplitud de una gama.
+{<font size="3">
+    <p>Número de líneas que la integran. </p></font>} text/html
+:Análisis DAFO.
+{<font size="3">
+    <p>Ejercicio de planificación en el cual los directivos identifican las </p></font></font /><font size="3"><font size="3">f</font></font><font size="3">ortalezas de la organización (F), sus puntos </font><font size="3"><font size="3">d</font></font><font size="3">ébiles (D), las </font><font size="3"><font size="3">o</font></font><font size="3">portunidades del entorno (O), y las </font><font size="3"><font size="3">a</font></font><font size="3">menazas que este presenta (A). </font></font />} text/html
+:Análisis del puesto de trabajo.
+{<font size="3">
+    <p>Estudio sistemático y detallado del mismo mediante el cual se identifican y examinan los elementos y tareas que le conforman, así como las características y los requisitos que de cumplir la persona que se le asigne. </p></font>} text/html
+:Apalancamiento financiero.
+{<font size="3">
+    <p>Sensibilidad del beneficio neto respecto al beneficio de explotación. Coincide con la sensibilidad de la rentabilidad financiera respecto a la rentabilidad económica. </p></font>} text/html
+:Apalancamiento operativo.
+{<font size="3">
+    <p>Sensibilidad del beneficio de explotación respecto a las ventas. Coincide con la sensibilidad de la rentabilidad económica respecto a las ventas. </p></font>} text/html
+:Apalancamiento total.
+{<font size="3">
+    <p>Sensibilidad del beneficio neto respecto a las ventas. Coincide con la sensibilidad de la rentabilidad financiera respecto a las ventas. </p></font>} text/html
+:Árbol de decisión.
+{<font size="3">
+    <p>Sistema de representación del proceso decisional en el que se reflejan las posibles alternativas por las que se puede optar y los resultados que corresponden a cada alternativa según cual sea el estado de la naturaleza que se presente. </p></font>} text/html
+:Assessment centers.
+{<font size="3">
+    <p>Programas que utilizan técnicas de simulación, reuniones y ejercicios de resolución de problemas en equipo, para identificar a los empleados que tienen capacidad directiva y tomar decisiones de promoción. </p></font>} text/html
+:Audiencia neta.
+{<font size="3">
+    <p>Número de personas de la población-objetivo expuestas al menos a uno de los soportes. </p></font>} text/html
+:Audiencia.
+{<font size="3">
+    <p>Número de personas de la población-objetivo al que les llega el mensaje. </p></font>} text/html
+:Autoridad.
+{<font size="3">
+    <p>Derecho o capacidad de mandar, de hacerse obedecer, de tomar decisiones que afectan a otros. </p></font>} text/html
+:Balance.
+{<font size="3">
+    <p align="justify">Estado de inventario anual en el que se detallan todas las inversiones que la empresa ha ido realizando a lo largo de su existencia (activo), así como las fuentes de financiación de esas inversiones (pasivo) </p></font><strong><font size="3" face="Arial,Arial"><font size="3" face="Arial,Arial">
+        <p>&nbsp;</p></font></font></strong>} text/html
+:Beneficio neto.
+{<font size="3">
+    <p>Beneficio que queda para los propietarios de la empresa una vez que se han deducido, del beneficio operativo, los intereses de las deudas. </p></font>} text/html
+:Beneficio operativo, beneficio económico, o beneficio de explotación.
+{<font size="3">
+    <p>Beneficio generado por los activos de la empresa (antes de deducir los intereses de las deudas). </p></font>} text/html
+:Bienes de consumo duradero.
+{<font size="3">
+    <p>Los que se adquieren para ser utilizados durante largos períodos de tiempo en los que se van consumiendo mediante depreciación u obsolescencia. </p></font>} text/html
+:Bienes Giffen.
+{<font size="3">
+    <p>Aquellos cuya demanda se reduce al disminuir su precio. </p></font>} text/html
+:Bienes.
+{<font size="3">
+    <p>Productos tangibles, que, por tanto, pueden almacenados, transformados físicamente y transportados. </p></font>} text/html
+:Brainstorming (tormenta de ideas).
+{<font size="3">
+    <p>Método de búsqueda de ideas en el que un cierto número de personas comprendido entre cinco y diez se reúnen para decir cuantas ideas les vengan a la mente evitando la crítica a las restantes y tratando de asociar sus ideas y las de los demás para, posteriormente, realizar una evaluación de todas ellas. </p></font>} text/html
+:Calidad.
+{<font size="3">
+    <p>Grado de adecuación del producto para el uso al que se le destina. </p></font>} text/html
+:Canal de distribución.
+{<font size="3">
+    <p>Conjunto de intermediarios que participan en el proceso de distribución. </p></font>} text/html
+:Capacidad necesaria.
+{<font size="3">
+    <p>La estimada por diferencia entre la capacidad requerida y la capacidad disponible. </p></font>} text/html
+:Capacidad organizativa.
+{<font size="3">
+    <p>Habilidad de la empresa para llevar a cabo una actividad concreta en grupo. </p></font>} text/html
+:Capacidad punta.
+{<font size="3">
+    <p>Aquella que sólo puede mantenerse durante un breve período de tiempo. </p></font>} text/html
+:Capacidad requerida.
+{<font size="3">
+    <p>La determinada por el nivel de demanda previsto o por el objetivo de ventas. </p></font>} text/html
+:Capacidad sostenida.
+{<font size="3">
+    <p>Nivel de producción que podría mantenerse de forma prolongada sin dificultad. </p></font>} text/html
+:Capacidad.
+{<font size="3">
+    <p>Máximo nivel de producción que puede alcanzarse en un período. </p></font>} text/html
+:Capital social.
+{<font size="3">
+    <p>Aportaciones directas de los socios a la financiación de la empresa. </p></font>} text/html
+:Capitales permanentes.
+{<font size="3">
+    <p>Fuentes de financiación que se encuentran a disposición de la empresa un período largo de tiempo. </p></font>} text/html
+:Centralización.
+{<font size="3">
+    <p>Concentración de la capacidad de decisión en la cúspide de la organización. </p></font>} text/html
+:Certeza.
+{<font size="3">
+    <p>Ambiente de decisión en el que el decisor conoce los estados de la naturaleza que van a presentarse. </p></font>} text/html
+:Ciclo corto, ciclo de explotación o ciclo dinero-mercaderías-dinero.
+{<font size="3">
+    <p>Proceso en el que se adquieren los materiales inventariables (materias primas y auxiliares, por ejemplo), se almacenan hasta incorporarse al proceso de transformación, se realiza la fabricación, se obtienen los productos terminados, estos son también almacenados y luego vendidos y remitidos a los clientes, a quienes se cobra inmediatamente o transcurrido cierto período de tiempo, lo que permite recuperar fondos de dinero con los que retribuir a los factores de producción. </p></font>} text/html
+:Ciclo largo, ciclo de amortizaciones o ciclo de depreciación.
+{<font size="3">
+    <p>Ciclo al que se encuentra sometido el activo fijo. </p></font>} text/html
+:Codificación.
+{<font size="3">
+    <p>Traducción del mensaje en símbolos comprensibles o lenguaje. </p></font>} text/html
+:Coeficiente de endeudamiento, o coeficiente de leverage.
+{<font size="3">
+    <p>Ratio de recursos ajenos sobre recursos propios. </p></font>} text/html
+:Coeficiente de variación de una variable.
+{<font size="3">
+    <p>Desviación típica por unidad de valor esperado. </p></font>} text/html
+:Compensación.
+{<font size="3">
+    <p>Contraprestación que han de recibir las personas por su dedicación; incluye sueldos y salarios, y otros elementos. </p></font>} text/html
+:Comunicación interna:
+{<font size="3">
+    <p>Proceso por el que dos o más personas o grupos de la organización comparten información, intercambian mensajes e interaccionan socialmente. </p></font>} text/html
+:Comunicación.
+{<font size="3">
+    <p>Elemento de gestión con el que se trata de que las personas sepan lo que se espera de ellas. </p></font>} text/html
+:Concentración
+{<font size="3">
+    <p>Situación en la que la mayoría de las decisiones importantes corresponden a pocos puestos. </p></font>} text/html
+:Conocimiento automático.
+{<font size="3">
+    <p>El que es individual y tácito. </p></font>} text/html
+:Conocimiento colectivo.
+{<font size="3">
+    <p>El que es social y tácito. </p></font>} text/html
+:Conocimiento consciente.
+{<font size="3">
+    <p>El que es individual y explícito. </p></font>} text/html
+:Conocimiento explícito.
+{<font size="3">
+    <p>Aquel que se puede representar en documentos como manuales de instrucciones, libros, bases de datos o páginas web. </p></font>} text/html
+:Conocimiento individual.
+{Aquel que es poseído por una persona concreta.} text/html
+:Conocimiento objetivado.
+{<font size="3">
+    <p>El que es social y explícito. </p></font>} text/html
+:Conocimiento social.
+{<font size="3">
+    <p>El que recae sobre un grupo de individuos, es decir, que tiene carácter colectivo y es compartido por los miembros de la organización. </p></font>} text/html
+:Conocimiento tácito.
+{<font size="3">
+    <p>Aquel que poseemos, pero que no somos capaces de explicar. </p></font>} text/html
+:Contacto en red (network).
+{<font size="3">
+    <p>Intercambio de información a través de un grupo o rd de ordenadores interconectados. </p></font>} text/html
+:Control por proacción.
+{<font size="3">
+    <p>El que se basa en actuar antes de que surjan las diferencias cuando son predecibles. </p></font>} text/html
+:Controlar.
+{<font size="3">
+    <p>Ajustar, es decir, comparar los resultados reales con lo que se había planificado y hacer desaparecer las diferencias negativas existentes. </p></font>} text/html
+:Coordinación.
+{<font size="3">
+    <p>Proceso por el cual se integran las acciones desorganizadas para producir el resultado deseado. </p></font>} text/html
+:Coste de inferioridad de servicio de un equipo de producción.
+{<font size="3">
+    <p>Coste de oportunidad en el que se incurre por utilizar ese equipo en relación a emplear el más avanzado tecnológicamente. </p></font>} text/html
+:Coste de una fuente de financiación.
+{<font size="3"><font size="3">
+      <p>Tipo de descuento que hace que el valor actual neto de sus flujos de caja sea nulo. </p></font></font>} text/html
+:Coste medio ponderado del capital.
+{<font size="3">
+    <p>Media aritmética ponderada de los costes de las diversas fuentes, utilizándose como ponderaciones los valores de mercado de las mismas. </p></font>} text/html
+:Costes fijos.
+{<font size="3">
+    <p>Los que no se alteran con el volumen de producción. </p></font>} text/html
+:Costes sociales.
+{<font size="3">
+    <p>Pérdidas directas o indirectas soportadas por terceros, como resultado de las actividades de la empresa. </p></font>} text/html
+:Costes variables.
+{<font size="3">
+    <p>Los que se modifican con el volumen de producción. </p></font>} text/html
+:Creación de nichos
+{<font size="3">
+    <p>Estrategia que consiste en centrarse en un determinado segmento o nicho del mercado, es decir, en un grupo de consumidores definido de algún modo. </p></font>} text/html
+:Crédito comercial.
+{<font size="3">
+    <p>El concedido a la empresa por sus proveedores permitiendo el pago aplazado de sus adquisiciones. </p></font>} text/html
+:Criterio de Laplace.
+{<font size="3">
+    <p>Criterio de decisión que parte de asignar a todos los estados de la naturaleza la misma probabilidad. </p></font>} text/html
+:Criterio de mínimo pesar de Savage.
+{<font size="3">
+    <p>Criterio basado en la aversión al arrepentimiento derivado de la equivocación en la decisión, que parte de la matriz de pesares. </p></font>} text/html
+:Criterio de optimismo parcial de Hurwicz.
+{<font size="3">
+    <p>Criterio basado en ponderar el mejor resultado de cada estrategia con un coeficiente de optimismo, </p></font><font size="3" face="Arial,Arial"><font size="3" face="Arial,Arial">a</font></font><font size="3">, y el peor con un coeficiente de pesimismo, 1 ? </font><font size="3" face="Arial,Arial"><font size="3" face="Arial,Arial">a</font></font><font size="3">. </font>} text/html
+:Criterio optimista.
+{<font size="3">
+    <p>Criterio basado en que, cualquiera que sea la estrategia elegida, el estado que se presentará será el más favorable para el decisor bajo ese estado. </p></font>} text/html
+:Criterio pesimista, o de Wald.
+{<font size="3">
+    <p>Criterio basado en que, cualquiera que sea la estrategia elegida, el estado que se presentará será el más desfavorable para el decisor bajo ese estado. </p></font>} text/html
+:Cuota de mercado.
+{<font size="3">
+    <p>Proporción que, del mercado total disponible, ha obtenido una empresa, una marca, un producto, una línea de productos o un item en general. </p></font>} text/html
+:Curva de demanda.
+{<font size="3">
+    <p>La que relaciona la cantidad demandada con el precio del producto. </p></font>} text/html
+:Debilidades.
+{<font size="3">
+    <p>Todos aquellos elementos, recursos, habilidades y actitudes que tiene la empresa y que constituyen barreras para conseguir una evolución favorable. </p></font>} text/html
+:Decisiones de capacidad.
+{<font size="3">
+    <p>Aquellas que tienen como objetivo que la empresa cuente con la capacidad de producción adecuada. </p></font>} text/html
+:Decisiones de inventarios.
+{<font size="3">
+    <p>Las relativas a los almacenes. </p></font>} text/html
+:Decisiones de proceso.
+{<font size="3">
+    <p>Las que se relacionan con el diseño del proceso físico de producción. </p></font>} text/html
+:Decisiones estratégicas.
+{<font size="3">
+    <p>Las que afectan a la empresa durante un período de tiempo largo, durante el cual son irreversibles. </p></font>} text/html
+:Decisiones secuenciales.
+{<font size="3">
+    <p>Aquellas que se encuentran sometidas a un proceso dinámico y adaptativo en un período de tiempo más o menos amplio en el que esas decisiones se concatenan, de modo que cada una condiciona a las que le siguen, y viene condicionada por las que le anteceden y por los estados de la naturaleza que se hayan presentado. </p></font>} text/html
+:Decisiones tácticas.
+{<font size="3">
+    <p>Las que tienen carácter cotidiano y cuyo efecto se extiende sobre un período breve de tiempo. </p></font>} text/html
+:Delegar autoridad.
+{<font size="3">
+    <p>Asignar una tarea a un subordinado, conferirle libertad y autoridad para desempeñarla, y controlarle para asegurar que la realiza adecuadamente. </p></font>} text/html
+:Demanda dependiente.
+{<font size="3">
+    <p>La que se encuentra vinculada a la demanda de otros productos. </p></font>} text/html
+:Demanda independiente.
+{<font size="3">
+    <p>La que viene determinada directamente por el mercado. </p></font>} text/html
+:Departamentar.
+{<font size="3">
+    <p>Dividir y subdividir el trabajo de la organización, para luego repartirlo entre grupos de personas. </p></font>} text/html
+:Departamento, o unidad organizativa.
+{<font size="3">
+    <p>División que resulta del proceso de departamentación. </p></font>} text/html
+:Desarrollo del mercado.
+{<font size="3">
+    <p>Introducir los productos actuales de la empresa en nuevos mercados. </p></font>} text/html
+:Desarrollo del producto.
+{<font size="3">
+    <p>Ofrecer nuevos productos en los mercados actuales. </p></font>} text/html
+:Descripción del puesto de trabajo.
+{<font size="3">
+    <p>Documento en el que se especifican sintéticamente los objetivos del puesto, el trabajo que se ha de realizar, las responsabilidades que comporta, la capacitación que requiere, su relación con otros puestos, y las condiciones de trabajo. </p></font>} text/html
+:Desembolso inicial.
+{<font size="3">
+    <p>Pago que requiere una inversión para dar comienzo. </p></font>} text/html
+:Destajo.
+{<font size="3">
+    <p>Sistema de remuneración por incentivos en el que al trabajador se le paga un incentivo igual a la remuneración unitaria del tiempo de trabajo. </p></font>} text/html
+:Desviación típica.
+{<font size="3">
+    <p>Raíz cuadrada positiva de la varianza. </p></font>} text/html
+:Diagrama de actividades.
+{<font size="3">
+    <p>Representación simultánea por orden cronológico y ununa misma escala de tiempo, de las tareas que realizan los distintos trabajadores (</p></font><strong><font size="3" face="Arial,Arial"><font size="3" face="Arial,Arial">diagrama de equipo</font></font><font size="3">) o el trabajador y las máquinas /</font><strong><font size="3" face="Arial,Arial"><font size="3" face="Arial,Arial">diagrama hombre-máquina</font></font><font size="3">). </font></strong></strong>} text/html
+:Diagrama de operaciones.
+{<font size="3">
+    <p>Representación de las operaciones necesarias para realizar una tarea, mediante la utilización de los símbolos de la Sociedad Americana de Ingenieros Mecánicos. </p></font>} text/html
+:Diferenciación.
+{<font size="3">
+    <p>Estrategia consistente en diferenciar el producto o servicio que ofrece la empresa, es decir, en crear algo que sea percibido en el mercado como único. </p></font>} text/html
+:Dirección de los recursos humanos.
+{<font size="3">
+    <p>Proceso de selección, formación, desarrollo y consecución de las personas cualificadas necesarias para conseguir los objetivos de la organización; se incluyen también en ese proceso las actividades precisas para conseguir la máxima satisfacción y eficiencia de los trabajadores. </p></font>} text/html
+:Dirección intermedia.
+{<font size="3">
+    <p>La formada por ejecutivos como los directores de fábricas o los jefes de divisiones. </p></font>} text/html
+:Dirección operativa, también llamada dirección de supervisión o dirección de primera línea.
+{<font size="3">
+    <p>La formada por todos aquellos que son responsables directamente de asignar trabajadores a trabajos específicos y evaluar sus resultados diariamente, e incluso hora a hora. </p></font>} text/html
+:Dirección.
+{<font size="3">
+    <p>Conjunto de personas que aúnan los esfuerzos de las demás y los dirigen hacia el objetivo común. </p></font>} text/html
+:Dirigir.
+{<font size="3">
+    <p>Conseguir los objetivos de la organización mediante la aplicación de los factores disponibles desarrollando las funciones de planificación, organización, gestión y control. </p></font>} text/html
+:Diseño organizativo.
+{<font size="3">
+    <p>Proceso por el cual los directivos eligen los tipos de unidades y de relaciones que dan lugar a la construcción de una estructura organizativa concreta. </p></font>} text/html
+:Distribución física.
+{<font size="3">
+    <p>Conjunto de elementos destinados a conducir materialmente el producto desde el vendedor hasta el comprador. </p></font>} text/html
+:Distribución.
+{<font size="3"><font size="3"><font size="3">
+        <p>Conjunto de decisiones y actividades que se orientan al proceso por el que se dirige el producto hasta el consumidor final. </p></font></font></font>} text/html
+:Diversificación.
+{<font size="3">
+    <p>En sentido amplio, agregar actividades distintas a las ya existentes en una empresa. Sería lo contrario de la especialización. En sentido restringido, corresponde únicamente al caso en el que la empresa introduce nuevos productos en nuevos mercados. </p></font>} text/html
+:Dividendos.
+{<font size="3">
+    <p>Cantidades que, de los beneficios anuales de la empresa, se reparten a los socios. </p></font>} text/html
+:División del trabajo.
+{<font size="3">
+    <p>Proceso de división del trabajo en tareas más simples, las cuales se asignan a personas y grupos de personas bajo el principio de especialización. </p></font>} text/html
+:Economía de la Empresa.
+{<font size="3">
+    <p>Disciplina científica que versa sobre la administración y dirección de los negocios empresariales. </p></font>} text/html
+:Elasticidad demanda/precio.
+{<font size="3">
+    <p>Cociente entre la proporción en que se modifica la demanda y la proporción de variación del precio. </p></font>} text/html
+:Elemento de un trabajo.
+{<font size="3">
+    <p>Parte del mismo que contiene un conjunto de movimientos, actividades o tareas estrechamente relacionadas ente sí. </p></font>} text/html
+:Emisor.
+{<font size="3">
+    <p>Persona o grupo que desea compartir la información. </p></font>} text/html
+:Empowerment.
+{<font size="3">
+    <p>Ampliación de las tareas de las personas de todos los niveles, dotándolas de autoridad para tomar decisiones y de responsabilidad para asumir sus consecuencias. </p></font>} text/html
+:Empresa.
+{<font size="3">
+    <p>Organización con ánimo de lucro. Sistema en el que se coordinan factores de producción, financiación y marketing para obtener sus fines. </p></font>} text/html
+:Enfoque contingencial.
+{<font size="3">
+    <p>Aquél según el cual las diferentes situaciones precisan estilos de liderazgo diferentes. </p></font>} text/html
+:Escala salarial.
+{<font size="3">
+    <p>Relación de puestos de trabajo y la remuneración que corresponde a cada uno. </p></font>} text/html
+:Especificación del puesto de trabajo.
+{<font size="3">
+    <p>Relación de los requisitos necesarios para ocuparlo en términos de cualidades físicas, mentales y emocionales. </p></font>} text/html
+:Esperanza matemática de una variable.
+{<font size="3">
+    <p>Valor de referencia que señala donde se encuentra centrada su distribución de probabilidad. </p></font>} text/html
+:Estado de inventario.
+{<font size="3">
+    <p>Documento en el que se detallan los componentes del activo y del pasivo con indicación de sus respectivos valores. </p></font>} text/html
+:Estados de la naturaleza.
+{<font size="3">
+    <p>Sucesos de los que dependen los resultados de las distintas decisiones y en los que apenas puede influir el decisor. </p></font>} text/html
+:Estrategia corporativa.
+{<font size="3">
+    <p>Plan de actuación que hace referencia a la determinación de los sectores y países en los que debería invertir la organización sus recursos para alcanzar sus objetivos. </p></font>} text/html
+:Estrategias competitivas.
+{<font size="3">
+    <p>Medios de los que dispone la empresa para hacer frente a las amenazas provenientes del entorno. </p></font>} text/html
+:Estructura en comité.
+{<font size="3">
+    <p>Aquella en la cual la autoridad y la responsabilidad son compartidas conjuntamente por un grupo de personas, en lugar de asumirlas una sola. </p></font>} text/html
+:Estructura en línea y staff.
+{<font size="3">
+    <p>Aquella en la que se combinan las relaciones de autoridad directa, propias de la estructura lineal, con relaciones de consulta y asesoramiento que se mantienen con los departamentos denominados staff. </p></font>} text/html
+:Estructura lineal, o jerárquica.
+{<font size="3">
+    <p>La basada en la autoridad directa del jefe sobre los subordinados. </p></font>} text/html
+:Estructura matricial.
+{<font size="3">
+    <p>Aquella en la que especialistas de diferentes partes de la organización se unen para trabajar en proyectos específicos. </p></font>} text/html
+:Estructura organizativa.
+{<font size="3">
+    <p>Red relativamente estable de interrelaciones entre personas y actividades; conjunto formal de relaciones que determina cómo las personas utilizan los recursos para conseguir los objetivos de la organización. </p></font>} text/html
+:Estudio del trabajo.
+{<font size="3">
+    <p>Empleo de ciertas técnicas que permiten analizar los factores físicos que influyen en él, e introducir mejoras par simplificarle, con el objetivo último de aumentar la productividad a corto plazo. </p></font>} text/html
+:Evaluación del trabajo.
+{<font size="3">
+    <p>Definir un nivel de rendimiento en el trabajo aceptable, valorar el rendimiento del trabajador y efectuar la comparación para tomar decisiones sobre formación, remuneración, promoción, cambió de puesto de trabajo, y despido. </p></font>} text/html
+:Experimentación comercial.
+{<font size="3">
+    <p>Análisis empírico del efecto que tienen distintas variables sobre las ventas. </p></font>} text/html
+:Financiación.
+{<font size="3">
+    <p>Consecución de los medios necesarios para efectuar inversiones. </p></font>} text/html
+:Flujo de caja.
+{<font size="3">
+    <p>Diferencia entre los cobros y los pagos que produce una inversión en un momento del tiempo. </p></font>} text/html
+:Fondo de comercio.
+{<font size="3">
+    <p>Valor del activo intangible de la empresa que permite la obtención de rentas futuras. </p></font>} text/html
+:Fondo de rotación, o fondo de maniobra.
+{<font size="3">
+    <p>Diferencia entre el activo circulante y el pasivo a corto plazo. </p></font>} text/html
+:Fortalezas.
+{<font size="3">
+    <p>Todos aquellos elementos internos y positivos que diferencian al proyecto de la empresa de otros iguales o semejantes. </p></font>} text/html
+:Fuente financiera.
+{<font size="3">
+    <p>Forma de consecución de medios financieros. </p></font>} text/html
+:Fuentes de información externas.
+{<font size="3">
+    <p>Las referidas a datos localizados en el exterior de la empresa. </p></font>} text/html
+:Fuentes de información internas.
+{<font size="3">
+    <p>Las referidas a datos localizados en la propia empresa. </p></font>} text/html
+:Fuerzas competitivas.
+{<font size="3">
+    <p>Grupos en los que se engloban las amenazas del entorno de cualquier sector de actividad. </p></font>} text/html
+:Gama.
+{<font size="3">
+    <p>Conjunto de líneas. </p></font>} text/html
+:Gestión del conocimiento.
+{<font size="3">
+    <p>Conjunto de procesos que utilizan el conocimiento para la identificación y explotación de los activos intangibles que existen en la empresa, así como para la generación de otros nuevos. </p></font>} text/html
+:Gestión, o dirección en sentido restringido.
+{<font size="3">
+    <p>Hacer que las personas de la organización cumplan sus funciones y obligaciones para alcanzar los objetivos deseados. </p></font>} text/html
+:Globalidad.
+{<font size="3">
+    <p>Propiedad de un sistema por la que cualquier intervención sobre uno de sus elementos o subsistemas repercute sobre los demás y sobre el conjunto del sistema. </p></font>} text/html
+:Gráfico de Gantt.
+{<font size="3">
+    <p>Instrumento de control consistente en representar en el eje de abcisas el tiempo o fechas de realización del proyecto, y en el de ordenadas las actividades que lo integran. </p></font>} text/html
+:Gráfico del flujo del proceso.
+{<font size="3">
+    <p>Representación de todas las fases por las que va pasando un material, especificándose, en cada una de ellas, si se trata de una operación, una inspección, un transporte, un almacenamiento, o una demora. </p></font>} text/html
+:Grafo PERT.
+{<font size="3">
+    <p>Representación gráfica de un proyecto mediante nudos y flechas. </p></font>} text/html
+:Holgura independiente de una actividad.
+{<font size="3">
+    <p>Margen de tiempo sobrante para realizar la actividad suponiendo que a la situación descrita por su nudo de origen se llega lo más tarde que es admisible y que a la del de destino se llega lo más pronto posible. </p></font>} text/html
+:Holgura libre de una actividad.
+{<font size="3">
+    <p>Margen de tiempo sobrante para realizar la actividad suponiendo que a la situación descrita por su nudo de origen se llega lo más pronto posible y que a la del de destino se llega también lo más pronto posible. </p></font>} text/html
+:Holgura total de una actividad.
+{<font size="3">
+    <p>Margen de tiempo sobrante para realizar la actividad suponiendo que a la situación descrita por su nudo de origen se llega lo más pronto posible y que a la del de destino se llega lo más tarde que es admisible. </p></font>} text/html
+:Incertidumbre estructurada.
+{<font size="3">
+    <p>Ambiente de decisión en el que se conocen los estados de la naturaleza que pueden presentarse, pero no la probabilidad de cada uno de ellos. </p></font>} text/html
+:Incertidumbre no estructurada.
+{<font size="3">
+    <p>Ambiente de decisión en el que ni siquiera se conocen los posibles estados de la naturaleza que pueden presentarse. </p></font>} text/html
+:Índice de productividad global.
+{<font size="3">
+    <p>Coeficiente que mide por cociente la relación entre la productividad del período 1 y la del período 0. </p></font>} text/html
+:Índice de rentabilidad, o coeficiente beneficio/coste.
+{<font size="3"><font size="3">
+      <p>Cociente entre el valor actual de todos los cobros generados por el proyecto, y el valor actual de todos los pagos que requiere, incluyendo entre estos últimos el desembolso inicial. </p></font></font>} text/html
+:Información perfecta.
+{<font size="3">
+    <p>Aquella cuya probabilidad de que sea correcta es el cien por cien. </p></font>} text/html
+:Insolvencia técnica.
+{<font size="3">
+    <p>Situación de una empresa cuyo beneficio operativo no es suficiente para hacer frente a los intereses de sus deudas. </p></font>} text/html
+:Integración vertical.
+{<font size="3">
+    <p>Diversificación homogénea por la que la empresa incorpora actividades de los distintos niveles de la producción, desde la obtención de las materias primas hasta la distribución física del producto. </p></font>} text/html
+:Inteligencia artificial.
+{<font size="3">
+    <p>Comportamiento desarrollado por una máquina que se denominaría &quot;inteligente&quot; si fuera llevado a cabo por un ser humano. </p></font>} text/html
+:Inventario justo a tiempo.
+{<font size="3">
+    <p>Sistema de inventarios basado en la recepción de pequeños pedidos frecuentemente y con tanta proximidad al momento de su utilización como sea posible. </p></font>} text/html
+:Inventario.
+{<font size="3">
+    <p>Provisión de materiales que tiene como objeto principal facilitar la continuidad del proceso productivo y la satisfacción de los pedidos. </p></font>} text/html
+:Inversión mixta.
+{<font size="3">
+    <p>Inversión no simple cuya ecuación del VAN no tiene ninguna solución real o tiene varias. </p></font>} text/html
+:Inversión pura.
+{<font size="3">
+    <p>Inversión no simple cuya ecuación del VAN tiene una única solución real. </p></font>} text/html
+:Inversión simple.
+{<font size="3">
+    <p>Aquella que consta de un desembolso inicial (importe negativo) y de un conjunto de flujos de caja que son todos positivos. </p></font>} text/html
+:Inversión.
+{<font size="3">
+    <p>Sacrificio de algo inmediato, a lo que se renuncia, a cambio de una esperanza que se adquiere y de la que es soporte el bien o derecho en el que se invierte. </p></font>} text/html
+:Investigación comercial, o investigación de mercados.
+{<font size="3">
+    <p>Función de consecución y análisis de la información precisa para la toma de decisiones y su control. </p></font>} text/html
+:Juego de estrategia.
+{<font size="3">
+    <p>Problema decisional en el que el resultado final depende de las decisiones tomadas por diversos jugadores. </p></font>} text/html
+:Liderazgo.
+{<font size="3">
+    <p>Ejercicio de la influencia y del poder. </p></font>} text/html
+:Límite de la dirección, o límite del control.
+{<font size="3">
+    <p>Número de personas que pueden estar directamente a cargo de un directivo. </p></font>} text/html
+:Línea.
+{<font size="3">
+    <p>Conjunto de productos agrupados por ciertas características que pueden ser de tipo técnico o comercial. </p></font>} text/html
+:Longitud.
+{<font size="3">
+    <p>Número total de productos o ítems de la empresa. </p></font>} text/html
+:Lucro.
+{<font size="3">
+    <p>Beneficio, provechó o utilidad material que se obtiene de un negocio o asunto. </p></font>} text/html
+:Mantenimiento.
+{<font size="3">
+    <p>Función cuyo objetivo es minimizar el tiempo durante el cual se interrumpe el proceso de producción o su calidad resulta alterada por un mal funcionamiento de los equipos, con el menor coste posible. </p></font>} text/html
+:Manual del empleado.
+{<font size="3"><font size="3">
+      <p>Aquél en el que se le explica sus derechos y la política de la empresa sobre cuestiones tales como vacaciones, ausentismo y períodos de descanso. </p></font></font>} text/html
+:Marca de distribuidor.
+{<font size="3">
+    <p>La que es puesta por el distribuidor del producto. </p></font>} text/html
+:Marca de familia.
+{<font size="3">
+    <p>La que es común a varios productos de una misma empresa. </p></font>} text/html
+:Marca individual.
+{<font size="3">
+    <p>La que es utilizada por un solo producto. </p></font>} text/html
+:Marca nacional.
+{<font size="3">
+    <p>La que es puesta por la empresa fabricante y generalmente su promoción se realiza a nivel nacional o internacional. </p></font>} text/html
+:Marca.
+{<font size="3">
+    <p>Elemento que identifica y permite el reconocimiento del producto por una palabra, un nombre, un símbolo, un diseño o una combinación de tales signos. </p></font>} text/html
+:Marketing-mix, o mezcla comercial.
+{<font size="3">
+    <p>Cada combinación de las cuatro políticas: producto, precio, promoción y distribución. </p></font>} text/html
+:Matriz DAFO.
+{<font size="3">
+    <p>Aquella en la que se sintetizan tanto las oportunidades como las amenazas del entorno, y tanto las fortalezas como las debilidades de la empresa. </p></font>} text/html
+:Matriz de transición.
+{<font size="3">
+    <p>Aquella cuyos elementos son las probabilidades de cambio de cada item a cada uno de los otros. </p></font>} text/html
+:Mayoristas de contado.
+{<font size="3">
+    <p>Los que actúan casi como depositarios o almacenistas del producto. </p></font>} text/html
+:Mayoristas de servicio completo.
+{<font size="3">
+    <p>Los que transportan el producto, lo almacenan, lo dividen en lotes o porciones ajustados a las necesidades y deseos de los minoristas y consumidores finales, financian a los detallistas permitiéndoles el aplazamiento del pago, prestan servicios posteriores a la venta y colaboran en la promoción del producto. </p></font>} text/html
+:Mayoristas.
+{<font size="3">
+    <p>Distribuidores que compran a fabricantes o a otros mayoristas y venden a otros intermediarios. </p></font>} text/html
+:Medición del trabajo.
+{<font size="3">
+    <p>Conjunto de técnicas cuyo principal objetivo es determinar el tiempo requerido para realizar una tarea. </p></font>} text/html
+:Medio o canal.
+{<font size="3">
+    <p>Procedimiento para conducir el mensaje codificado al receptor; puede ser una carta, una llamada telefónica, una comunicación verbal en una reunión, un memorando, etc. </p></font>} text/html
+:Medio publicitario.
+{<font size="3">
+    <p>Conjunto de soportes afines o de la misma categoría. </p></font>} text/html
+:Mensaje
+{<font size="3">
+    <p>Información que se comunica. </p></font>} text/html
+:Mercado de competencia monopolística.
+{<font size="3">
+    <p>Aquel en el que los consumidores perciben que el producto difiere de cualquier otro y satisface deseos y necesidades que ningún otro satisface, al menos del mismo modo. </p></font>} text/html
+:Mercados de consumo.
+{<font size="3">
+    <p>Aquellos en los que los adquirentes son individuos o familias que compran para satisfacer sus necesidades consumiendo o usando el bien o servicio. </p></font>} text/html
+:Mercados industriales.
+{<font size="3">
+    <p>Aquellos en los que los adquirentes compran por encargo de organizaciones que precisan los productos para desarrollar su actividad y alcanzar sus fines. </p></font>} text/html
+:Merchandising del distribuidor.
+{<font size="3">
+    <p>Conjunto de decisiones y actividades relativas a la exposición de los productos en el lugar de venta, el espacio dedicado a cada uno de ellos, su presentación y, en general, la disposición de los artículos en la tienda o almacén de venta. </p></font>} text/html
+:Método directo.
+{<font size="3">
+    <p>Sistema de valoración de empresas en el que el fondo de comercio se estima por el procedimiento de los superrendimientos y luego se añade este importe al del valor sustancial para estimar el valor global. </p></font>} text/html
+:Método DuPont.
+{<font size="3">
+    <p>Procedimiento de descomposición, análisis e interpretación de la rentabilidad, basado en ratios que actúan entre sí de forma multiplicativa. </p></font>} text/html
+:Método indirecto, método de los prácticos, o método alemán.
+{<font size="3">
+    <p>Sistema de valoración de empresas que parte de la consideración de que el valor teóricamente correcto de a empresa es el valor de rendimiento. El fondo de comercio se calcula por diferencia entre éste y el valor sustancia, y para calcular el valor global se añade al valor sustancial la mitad del fondo de comercio. </p></font>} text/html
+:Método PERT.
+{<font size="3">
+    <p align="justify">Instrumento al servicio de la toma de decisiones que permite la planificación, ejecución y control de proyectos que requieren la coordinación de un gran número de actividades entre las que existen relaciones de precedencia y que se han de realizar en un tiempo limitado y con unos medios también limitados. </p></font><strong><font size="3" face="Arial,Arial"><font size="3" face="Arial,Arial">
+        <p>&nbsp;</p></font></font></strong>} text/html
+:Métodos de segmentación de mercados.
+{<font size="3">
+    <p>Procedimientos de agrupación de la población en dos grupos o categoría dicotómicas: la de las personas que consumen el producto en cuestión y la de las que no lo consumen. </p></font>} text/html
+:Métodos dinámicos.
+{<font size="3">
+    <p>Criterios de selección de inversiones que incorporan el fctor tiempo, y tienen en cuenta el hecho de que los capitales tienen distinto valor en función del momento en el que se generan. </p></font>} text/html
+:Métodos estáticos.
+{<font size="3">
+    <p>Criterios de selección de inversiones que no tienen en cuenta el hecho de que los capitales tienen distintos valores en los diferentes momentos del tiempo. </p></font>} text/html
+:Mezcla promocional, o marketing-mix de promoción o comunicación.
+{<font size="3">
+    <p>Combinación empresarial de las cuatro actividades: publicidad, promoción de ventas propiamente dicha, relaciones públicas y acciones promocionales de la fuerza de ventas. </p></font>} text/html
+:Mínimo adverso.
+{<font size="3">
+    <p>Mínimo coste total, resultante de sumar los costes crecientes y decrecientes del equipo de producción. </p></font>} text/html
+:Minoristas, o detallistas.
+{<font size="3">
+    <p>Distribuidores que compran a fabricantes o a otros mayoristas y venden a los consumidores. </p></font>} text/html
+:Modelo aditivo.
+{<font size="3">
+    <p>Aquel en el que se suman los resultados de ponderar cada factor según la importancia que tiene, obteniéndose así la puntuación de cada localización. </p></font>} text/html
+:Modelo multiplicativo.
+{<font size="3">
+    <p>Aquel en el que se multiplican los resultados de ponderar exponencialmente cada factor según la importancia que tiene, obteniéndose así la puntuación de cada localización. </p></font>} text/html
+:Modelo.
+{<font size="3">
+    <p>Representación simplificada de una parte de la realidad. </p></font>} text/html
+:Modelos aleatorios o probabilísticos.
+{<font size="3">
+    <p>Aquellos en los que uno o varios de los datos son conocidos sólo en términos de probabilidades. </p></font>} text/html
+:Modelos analíticos.
+{<font size="3">
+    <p>Aquellos que permiten obtener soluciones. </p></font>} text/html
+:Modelos de inventarios deterministas.
+{<font size="3">
+    <p>Aquellos en los que la demanda se supone conocida con certeza. </p></font>} text/html
+:Modelos de inventarios probabilísticos o aleatorios.
+{<font size="3">
+    <p>Aquellos en los que la demanda sólo se conoce en términos de probabilidades. </p></font>} text/html
+:Modelos de simulación.
+{<font size="3">
+    <p>Representaciones simplificadas de la realidad sobre las que se opera para estudiar los efectos de las distintas alternativas de actuación. </p></font>} text/html
+:Modelos deterministas.
+{<font size="3">
+    <p>Aquellos en los que se suponen conocidos con certeza todos los datos de la realidad que representan. </p></font>} text/html
+:Modelos dinámicos.
+{<font size="3">
+    <p>Aquellos que incorporan el tiempo como variable o como parámetro fundamental. </p></font>} text/html
+:Modelos estáticos.
+{<font size="3">
+    <p>Aquellos que no utilizan la variable tiempo. </p></font>} text/html
+:Motivación.
+{<font size="3">
+    <p>Elemento de gestión con el que se trata de que las personas tengan razones para desarrollar un comportamiento determinado. </p></font>} text/html
+:Motivo.
+{<font size="3">
+    <p>Estado profundo que dirige el individuo hacia el objetivo de satisfacer su necesidad. </p></font>} text/html
+:Muestreo aleatorio estratificado.
+{<font size="3">
+    <p>Procedimiento probabilístico consistente en dividir la población en grupos, de acuerdo con el criterio de segmentación que interese en cada caso, de cada uno de los cuales se extrae una muestra mediante alguno de los métodos aleatorios. </p></font>} text/html
+:Muestreo aleatorio por itinerarios.
+{<font size="3">
+    <p>Muestreo aleatorio sistemático con base territorial. </p></font>} text/html
+:Muestreo aleatorio simple.
+{<font size="3">
+    <p>Aquel en el que los elementos son seleccionados asignándoseles números y utilizándose cualquier procedimiento de generación de números aleatorios o bien utilizando una tabla de números generados or cualquiera de tales procedimientos. </p></font>} text/html
+:Muestreo aleatorio sistemático.
+{<font size="3">
+    <p>Aquel en el que los elementos de la población se numeran para luego elegir la muestra seleccionando el primer elemento al azar y los restantes tomando intervalos de una dimensión igual al resultado de dividir el tamaño de la población entre el de la muestra. </p></font>} text/html
+:Muestreo del trabajo.
+{<font size="3">
+    <p>Realización de un gran número de observaciones directas e instantáneas de una determinada operación y registro de lo que ocurre en ese instante para determinar el porcentaje de tiempo en que la operación se encuentra en determinado estado. </p></font>} text/html
+:Necesidad.
+{<font size="3">
+    <p>Falta de algo que es útil porque, discrepancia entre una situación deseada y la situación actual. </p></font>} text/html
+:Normalizar.
+{<font size="3">
+    <p>Clasificar productos en grupos homogéneos con relación a los atributos de calidad. </p></font>} text/html
+:Objetivo.
+{<font size="3">
+    <p>Razón de la existencia de la organización. </p></font>} text/html
+:Objetivos.
+{<font size="3">
+    <p>Resultado final que se espera conseguir con el plan. </p></font>} text/html
+:Objeto material de la Economía de la Empresa.
+{<font size="3">
+    <p>Es la empresa. </p></font>} text/html
+:Oficio de la empresa.
+{<font size="3">
+    <p>Elemento cultural, determinado por su historia, con vocación de permanencia, que la identifica y la diferencia de las demás, y que puede y debe aglutinar a todas las personas de la organización como uno de sus valores compartidos. </p></font>} text/html
+:Oportunidades.
+{<font size="3">
+    <p>Situaciones externas positivas que se generan en el entorno y que, una vez identificadas, se pueden aprovechar. </p></font>} text/html
+:Organigrama.
+{<font size="3">
+    <p>Gráfico en el que se representan las unidades organizativas y las relaciones que existen entre ellas. </p></font>} text/html
+:Organización del trabajo.
+{<font size="3">
+    <p>Síntesis de una serie de tareas o actividades individuales para conformar un puesto de trabajo que se asigna a un trabajador o a un grupo de trabajadores, especificándose así el contenido del puesto de trabajo y las responsabilidades de quienes lo desempeñen. </p></font>} text/html
+:Organización.
+{<font size="3">
+    <p>Conjunto de personas y elementos materiales dirigidos, bajo el principio de la división del trabajo, con el fin de conseguir objetivos que no se podrían alcanzar mediante el esfuerzo individual aislado. </p></font>} text/html
+:Organizar.
+{<font size="3">
+    <p>Dividir el trabajo entre las personas y los grupos y coordinar sus actividades. </p></font>} text/html
+:Orientación a la competencia.
+{<font size="3">
+    <p>La basada en la consecución de ventajas sobre los competidores. </p></font>} text/html
+:Orientación a la producción.
+{<font size="3">
+    <p>La que se dirige a elaborar productos de calidad a bajo coste, siendo un problema menor el de su venta. </p></font>} text/html
+:Orientación a las ventas.
+{<font size="3">
+    <p>Aquella en la que lo prioritario es realizar el esfuerzo necesario para vender los productos elaborados. </p></font>} text/html
+:Orientación a los consumidores.
+{<font size="3">
+    <p>Aquella en la que lo primordial es determinar lo que desean los consumidores para luego producirlo y ofrecérselo con un beneficio. </p></font>} text/html
+:Orientación al cliente.
+{<font size="3">
+    <p>Aquella que considera al cliente como el centro de la organización. </p></font>} text/html
+:Orientación social de la empresa.
+{<font size="3">
+    <p>Enfoque que considera que la empresa no debe limitarse al ejercicio de su función económica, sino que debe también incorporar explícitamente objetivos orientados al bienestar de la sociedad. </p></font>} text/html
+:Orientación social.
+{<font size="3">
+    <p>La que es propia de la empresa dirigida a procurar la satisfacción y el bienestar a largo plazo de los clientes y de la sociedad en general. </p></font>} text/html
+:Oscilación de un nudo.
+{<font size="3">
+    <p>Diferencia entre su tiempo </p></font><em><font size="3" face="Arial,Arial"><font size="3" face="Arial,Arial">last </font></font><font size="3">y su tiempo </font><em><font size="3" face="Arial,Arial"><font size="3" face="Arial,Arial">early</font></font><font size="3">. </font></em></em>} text/html
+:Participación en beneficios.
+{<font size="3">
+    <p>Remuneración consistente en entregar a los trabajadores una parte de los beneficios netos generados por la empresa durante su ejercicio económico. </p></font>} text/html
+:Pasivo a corto plazo.
+{<font size="3">
+    <p>Deudas que vencen en un período breve de tiempo. </p></font>} text/html
+:Patrimonio neto.
+{<font size="3">
+    <p>Diferencia entre el activo y el pasivo. </p></font>} text/html
+:Penetración de un soporte.
+{<font size="3">
+    <p>Tanto por uno que, del número de personas a las que se dirige el mensaje, representa el número de las que resultan expuestas al mismo. </p></font>} text/html
+:Penetración en el mercado.
+{<font size="3">
+    <p>Aumentar la participación de la empresa en el mercado actual con los productos actuales. </p></font>} text/html
+:Período de maduración.
+{<font size="3">
+    <p>Duración del ciclo de explotación. </p></font>} text/html
+:PERT-coste.
+{<font size="3">
+    <p>Extensión del PERT-tiempo en la que se consideran explícitamente los costes. </p></font>} text/html
+:PEST.
+{<font size="3">
+    <p>Análisis del entorno que parte de las variables político-legales, económicas, socioculturales y tecnológicas. </p></font>} text/html
+:Planificación conjunta.
+{<font size="3">
+    <p>Planificación de todas las líneas de productos de la empresa para atender a la demanda con los medios disponibles. </p></font>} text/html
+:Planificación de los recursos humanos.
+{<font size="3">
+    <p>Desarrollo de una estrategia completa que permita la organización cubrir sus futuras necesidades de estos recursos; proceso por el cual la dirección se asegura que tendrá el número correcto de personas, con las capacidades apropiadas, en el lugar adecuado y en el momento preciso. </p></font>} text/html
+:Planificación estratégica.
+{<font size="3">
+    <p>Tipo de planificación a largo plazo. </p></font>} text/html
+:Planificación.
+{<font size="3">
+    <p>Función directiva que comporta el establecimiento de objetivos y la decisión sobre las estrategias y las tareas necesarias para alcanzar esos objetivos. </p></font>} text/html
+:Plazo de recuperación con descuento.
+{<font size="3">
+    <p>Período de tiempo que tarde en recuperarse, en términos actuales, el desembolso inicial de la inversión. </p></font>} text/html
+:Plazo de recuperación, o pay-back.
+{<font size="3">
+    <p>Período de tiempo que tarda en recuperarse el desembolso inicial con los flujos de caja. </p></font>} text/html
+:Población -objetivo.
+{<font size="3">
+    <p>Público al que se dirige el anuncio. </p></font>} text/html
+:Poder coercitivo.
+{<font size="3">
+    <p>El basado en las posibles penalizaciones que un miembro del canal puede imponer a otro. </p></font>} text/html
+:Poder no coercitivo.
+{<font size="3">
+    <p>El basado en los premios y asistencias prestadas. </p></font>} text/html
+:Políticas.
+{<font size="3">
+    <p>Líneas que orientan el pensamiento y la acción. </p></font>} text/html
+:Posición de la marca.
+{<font size="3">
+    <p>Situación que ocupa en relación a las demás según los atributos que los consumidores perciben en ellas. </p></font>} text/html
+:Precio mínimo.
+{<font size="3">
+    <p>Coste variable unitario. </p></font>} text/html
+:Precio técnico.
+{<font size="3">
+    <p>Aquel para el cual el beneficio es nulo. </p></font>} text/html
+:Prelación de convergencia.
+{<font size="3">
+    <p>La que se produce cuando, para poder iniciar cierta actividad, es necesario que hayan finalizado previamente dos o más actividades. </p></font>} text/html
+:Prelación de divergencia.
+{<font size="3">
+    <p>La que aparece cuando, para que puedan iniciarse dos o más actividades, es necesario que se haya terminado anteriormente una única actividad. </p></font>} text/html
+:Prelación lineal.
+{<font size="3">
+    <p>La que se presenta cuando, para poder iniciar una determinada actividad, es necesario que haya finalizado previamente una única actividad. </p></font>} text/html
+:Prescriptor.
+{<font size="3">
+    <p>Persona cuya opinión e influencia determina o condiciona en buena medida la selección del consumidor. </p></font>} text/html
+:Presupuesto de tesorería.
+{<font size="3">
+    <p>Documento en el que se reflejan los saldos niciales de liquidez, los cobros, los pagos y, como resultado, los saldos finales de dinero en cada uno de los períodos presupuestarios. </p></font>} text/html
+:Presupuestos.
+{<font size="3">
+    <p>Documentos que expresan las expectativas en cifras. </p></font>} text/html
+:Prima de riesgo de una inversión.
+{<font size="3">
+    <p>Suplemento de rentabilidad que incorpora debido al riesgo que comporta. </p></font>} text/html
+:Problema de programación lineal.
+{<font size="3">
+    <p>Función objetivo lineal, que se ha de maximizar o minimizar, y conjunto de restricciones de carácter también lineal. </p></font>} text/html
+:Procedimientos.
+{<font size="3">
+    <p>Guías específicas de actuación. </p></font>} text/html
+:Proceso de satisfacción-progreso.
+{<font size="3">
+    <p>Aquel por el cuadro, según Maslow, el individuo se plantea necesidades de orden superior a medida que va satisfaciendo las más básicas. </p></font>} text/html
+:Producción automática.
+{<font size="3">
+    <p>Aquella en la que las máquinas proporcionan la fuerza y, además, controlan otras máquinas y herramientas, de forma que el hombre se limita a programar y supervisar al aparato mecánico. </p></font>} text/html
+:Producción manual.
+{<font size="3">
+    <p>Aquella en la que el hombre proporciona tanto la fuerza como el manejo de las herramientas. </p></font>} text/html
+:Producción mecanizada.
+{<font size="3"><font size="3">
+      <p>Aquella en la que la máquina proporciona la fuerza pero es el hombre el que maneja los útiles y herramientas. </p></font></font>} text/html
+:Productividad global.
+{<font size="3">
+    <p>Cociente entre la producción total de la empresa y la totalidad de los factores utilizados para alcanzarla. </p></font>} text/html
+:Productividad.
+{<font size="3">
+    <p>Relación entre la producción de un período y la cantidad de recursos consumidos para alcanzarla. </p></font>} text/html
+:Producto ampliado.
+{<font size="3">
+    <p>Producto tangible y conjunto de servicios que le acompañan. </p></font>} text/html
+:Producto diferenciado.
+{<font size="3">
+    <p>El que se distingue del resto, según la percepción del consumidor. </p></font>} text/html
+:Producto genérico.
+{<font size="3">
+    <p>Esperanza del consumidor de obtener un beneficio satisfaciendo una necesidad o un deseo con la adquisición del producto. </p></font>} text/html
+:Producto tangible.
+{<font size="3">
+    <p>Entidad física del mismo. </p></font>} text/html
+:Productos de ciclo inverso.
+{<font size="3">
+    <p>Aquellos cuya demanda sigue una oscilación estacional inversa. </p></font>} text/html
+:Profundidad de una línea.
+{<font size="3">
+    <p>Número de productos o referencias que la integran. </p></font>} text/html
+:Programación de la producción.
+{<font size="3">
+    <p>Distribución de los recursos limitados entre los distintos productos, trabajos, actividades, tareas, clientes, o ítems en general. </p></font>} text/html
+:Programas de formación para puestos directivos, o programas de desarrollo de la dirección.
+{<font size="3">
+    <p>Los diseñados para mejorar la capacidad y aumentar los conocimientos de los directivos de la empresa y de sus empleados que tienen posibilidades de llegar a serlo. </p></font>} text/html
+:Promoción de ventas.
+{<font size="3">
+    <p>Todas aquellas actividades mercadotécnicas distintas de la venta personal y de la publicidad, que estimulan las compras de los clientes y la eficacia de los vendedores, tales como exposiciones, ferias, demostraciones, material para tiendas y otros esfuerzos de ventas no repetitivos que se encuentran fuera de la rutina habitual. </p></font>} text/html
+:Promoción.
+{<font size="3">
+    <p>Ascenso de una persona a otro puesto de la organización al que le corresponde mayor autoridad y responsabilidad y, por regla general, una remuneración más elevada. </p></font>} text/html
+:Pseudoacontecimiento.
+{<font size="3">
+    <p>Hecho elaborado dispuesto para su difusión por los medios de comunicación. </p></font>} text/html
+:Publicidad difusiva.
+{<font size="3">
+    <p>La que pretende solamente dar a conocer algo. </p></font>} text/html
+:Publicidad mixta.
+{<font size="3">
+    <p>La que combina objetivos de difusión y de persuasión. </p></font>} text/html
+:Publicidad persuasiva, o combativa.
+{<font size="3">
+    <p>La que trata de incidir en el reparto del mercado. </p></font>} text/html
+:Punto muerto, o umbral de rentabilidad.
+{<font size="3">
+    <p>Volumen de ventas, en unidades físicas, para el cual el beneficio operativo de la empresa es nulo, y a partir del cual es positivo. </p></font>} text/html
+:Ratios de rotación.
+{<font size="3">
+    <p>Número de veces que la masa patrimonial correspondiente se encuentra comprendida en el volumen de ventas del período. </p></font>} text/html
+:Ratios de situación.
+{<font size="3">
+    <p>Son los obtenidos a partir del balance. </p></font>} text/html
+:Receptor.
+{<font size="3">
+    <p>Persona o grupo al que se dirige el mensaje. </p></font>} text/html
+:Recursos financieros ajenos
+{<font size="3"><font size="3">
+      <p>Aquellos cuya devolución le será exigida a la empresa en un período de tiempo más o menos amplio. </p></font></font>} text/html
+:Recursos financieros externos.
+{<font size="3">
+    <p>Los conseguidos en el exterior de la empresa captando el ahorro de otros. </p></font>} text/html
+:Recursos financieros internos.
+{<font size="3">
+    <p>Los generados dentro de la empresa mediante su propio ahorro. </p></font>} text/html
+:Recursos financieros propios.
+{<font size="3">
+    <p>Los que no han de devolverse nunca. </p></font>} text/html
+:Recursos tangibles.
+{<font size="3">
+    <p>Aquellos fácilmente inventariables y que figuran en el balance contable de la empresa. </p></font>} text/html
+:Recursos.
+{<font size="3">
+    <p>Stock de factores productivos que la empresa posee o controla. </p></font>} text/html
+:Reglas.
+{<font size="3">
+    <p>Normas que señalan lo que se puede y lo que no se puede hacer en situaciones o momentos muy definidos. </p></font>} text/html
+:Relaciones públicas.
+{<font size="3">
+    <p>Actividades y decisiones destinadas a mejorar y mantener las relaciones de la organización empresarial con conjuntos de personas tales como sus empleados, los consumidores, los accionistas, los medios de comunicación, las autoridades locales o los sindicatos. </p></font>} text/html
+:Rentabilidad económica.
+{<font size="3">
+    <p>Rentabilidad generada por los activos, con independencia de la forma en la que se financie la empresa (cociente entre el beneficio operativo y el valor del activo). </p></font>} text/html
+:Rentabilidad financiera.
+{<font size="3">
+    <p>Rentabilidad obtenida por los propietarios de la empresa (cociente entre el beneficio neto y los capitales propios). </p></font>} text/html
+:Rentabilidad neta de riesgo de una inversión.
+{<font size="3">
+    <p>Diferencia entre su rentabilidad y su prima de riesgo requerida. </p></font>} text/html
+:Rentabilidad.
+{<font size="3">
+    <p>Relación entre los beneficios obtenidos y los fondos aplicados para obtenerlos. </p></font>} text/html
+:Reservas.
+{<font size="3">
+    <p>Capitales propios de la empresa que generalmente provienen de la retención de beneficios. </p></font>} text/html
+:Responsabilidad social de la empresa.
+{<font size="3">
+    <p>Enfoque que considera que en la toma de decisiones empresariales no sólo se deben considerar los efectos económicos, sino también sus efectos sociales. </p></font>} text/html
+:Responsabilidad.
+{<font size="3">
+    <p>Obligación de la persona de llevar a efecto las tareas que le han sido asignadas. </p></font>} text/html
+:Riesgo.
+{<font size="3">
+    <p>Ambiente de decisión en el que el decisor sabe qué estados pueden presentarse y la probabilidad que tiene cada uno de ellos. </p></font>} text/html
+:Riqueza informativa.
+{<font size="3">
+    <p>Cantidad de información que puede llevar un medio y medida en la que permite al emisor y al receptor alcanzar un entendimiento. </p></font>} text/html
+:Rotación de trabajos.
+{<font size="3">
+    <p>Sucesivas asignaciones temporales a diversos departamentos, para que los jóvenes ejecutivos se familiaricen con las diversas actividades de la empresa y sepan la función que desempeña cada unidad organizativa. </p></font>} text/html
+:Ruido.
+{<font size="3">
+    <p>Término general que se utiliza para referirse a cualquier cosa que interfiere en cualquier etapa del proceso de comunicación. </p></font>} text/html
+:Rutina organizativa.
+{<font size="3">
+    <p>Serie de pautas de actuación regulares y predecibles que indican qué tareas se deben efectuar y cómo se han de llevar a cabo. </p></font>} text/html
+:Segmentación de mercados.
+{<font size="3">
+    <p>Proceso de división de los mercados en grupos de características similares. </p></font>} text/html
+:Servicios.
+{<font size="3">
+    <p>Productos intangibles, que, por tanto, no pueden ser almacenados, transformados físicamente ni transportados. </p></font>} text/html
+:Simograma.
+{<font size="3">
+    <p>Representación simultánea, para ambas manos, en la que se reflejan los movimientos que se realizan y los tiempos precisos para efectuarlos. </p></font>} text/html
+:Sinergia.
+{<font size="3">
+    <p>Propiedad por la cual el sistema manifiesta características y formas de comportamiento que no son atribuibles a ninguno de sus elementos o subsistemas. </p></font>} text/html
+:Sistema abierto.
+{<font size="3">
+    <p>Sistema que se cerró la se interrelaciona con su entorno. </p></font>} text/html
+:Sistema americano.
+{<font size="3">
+    <p>Sistema de amortización de deudas en el que cada año se abonan los intereses del préstamo, y el principal se devuelve enteramente al final de su duración. </p></font>} text/html
+:Sistema de apoyo a la decisión.
+{<font size="3">
+    <p>Sistema de información con capacidad para la construcción de modelos que se puede utilizar para la toma de decisiones no rutinarias. </p></font>} text/html
+:Sistema de cuotas constantes.
+{<font size="3">
+    <p>Sistema de amortización de deudas en el que todos los períodos se paga la misma cuota en concepto de intereses y de devolución del principal. </p></font>} text/html
+:Sistema de información de las operaciones.
+{<font size="3">
+    <p>MIS que reúne, organiza, y resume toda la información relevante de forma que se pueda utilizar para tareas no rutinarias de toma de decisiones, coordinación y control. </p></font>} text/html
+:Sistema de información para la dirección (MIS, Management Information System).
+{<font size="3">
+    <p>Sistema de información diseñado para ofrecer a la dirección la información necesaria para realizar sus funciones con la máxima eficacia. </p></font>} text/html
+:Sistema de información.
+{<font size="3">
+    <p>Sistema de obtención, organización, almacenamiento, tratamiento y transmisión de la información. </p></font>} text/html
+:Sistema de inventarios.
+{<font size="3">
+    <p>Conjunto integrado por una estructura organizativa y por reglas, políticas, y procedimientos de mantenimiento y control de los bienes inventariados. </p></font>} text/html
+:Sistema de período constante, sistema periódico, sistema de revisión periódica, o sistema de intervalo fijo de pedido.
+{<font size="3">
+    <p align="justify">Sistema de inventarios en el que se establece un período constante entre cada par de pedidos, de modo que éstos se efectúan cuando ha transcurrido ese período, y su tamaño es variable dependiendo del nivel que tenga el inventario al llegar ese momento y de la demanda prevista. </p></font>} text/html
+:Sistema de procesamiento de las transacciones.
+{<font size="3">
+    <p>Sistema de información diseñado para manejar grandes volúmenes de transacciones rutinarias y recurrentes. </p></font>} text/html
+:Sistema de volumen de pedido constante, o sistema de volumen económico de pedido.
+{<font size="3">
+    <p>Sistema de inventarios en el que todos los pedidos tienen el mismo tamaño y se realizan cuando se comprueba que es necesario, lo cual puede suceder en cualquier momento dado el nivel de existencias del almacén y la demanda prevista. </p></font>} text/html
+:Sistema experto.
+{<font size="3">
+    <p>El que utiliza el conocimiento humano incorporado en un ordenador para resolver problemas que normalmente requieren la experiencia humana </p></font>} text/html
+:Sistema finalista.
+{<font size="3">
+    <p>Aquel que permite la elección de medios, o de fines, o de ambos. </p></font>} text/html
+:Sistema Halsey.
+{<font size="3">
+    <p>Sistema de remuneración por incentivos en el que el valor de cada unidad de tiempo que el trabajador ahorra se reparte entre él y la empresa. </p></font>} text/html
+:Sistema Rowan.
+{<font size="3">
+    <p>Sistema de remuneración por incentivos en el que la proporción que representa el incentivo unitario obre el salario unitario, es igual al que representa el tiempo efectivo de trabajo sobre el previsto para realizar la tarea. </p></font>} text/html
+:Sistema York.
+{<font size="3">
+    <p>Sistema de remuneración por incentivos en el que la proporción que representa el incentivo unitario sobre el salario unitario, es igual a la que representa el tiempo estándar sobre el ahorro de tiempo. </p></font>} text/html
+:Sistema.
+{<font size="3">
+    <p>Conjunto de elementos interrelacionados entre sí y con el sistema global, que tiene unos objetivos. </p></font>} text/html
+:Sistemas de producción múltiples.
+{<font size="3">
+    <p>Aquellos de los que se obtienen varios productos o, al menos, parte del proceso es común a varios productos. </p></font>} text/html
+:Sistemas de producción simples.
+{<font size="3">
+    <p>Aquellos en los que el </p></font><em><font size="3" face="Arial,Arial"><font size="3" face="Arial,Arial">output </font></font><font size="3">es un producto de características técnicas homogéneas. </font></em>} text/html
+:Soporte.
+{<font size="3">
+    <p>Todo elemento que puede ser utilizado para transmitir el mensaje publicitario. </p></font>} text/html
+:Tasa de productividad global.
+{<font size="3">
+    <p>Proporción de variación de la productividad entre dos períodos. </p></font>} text/html
+:Tasa de valor actual.
+{<font size="3">
+    <p>Valor actual neto que se obtiene con la inversión por cada unidad monetaria comprometida. </p></font>} text/html
+:Tecnología de la información (IT).
+{<font size="3">
+    <p>Conjunto de medios informáticos mediante los que se obtiene la información, se organiza, se almacena, se manipula y se transmite. </p></font>} text/html
+:Tecnología.
+{<font size="3">
+    <p>Combinación de capacidades, conocimientos, herramientas, máquinas, ordenadores y equipo que se utilizan en el diseño, la producción, y la distribución de bienes y servicios. </p></font>} text/html
+:Teorema de Bayes.
+{<font size="3">
+    <p>Teorema que permite modificar las probabilidades de los distintos estados en función de la información adicional de la que va disponiéndose. </p></font>} text/html
+:Teorema fundamental del límite.
+{<font size="3">
+    <p>Teorema que señala que, si una variable está formada por la suma de un infinito número de variables independientes entre sí, cada una de las cuales tiene una distribución de media y varianza finitas, esa variable-suma seguirá una distribución normal. </p></font>} text/html
+:Teoría contingencial.
+{<font size="3">
+    <p>Aquella según la cual no existe una forma mejor que otra de diseñar una organización, sino que depende de su situación. </p></font>} text/html
+:Teoría de la agencia.
+{<font size="3">
+    <p>Aquélla que concibe a la empresa como un conjunto de relaciones de agencia. </p></font>} text/html
+:Teoría de la empresa.
+{<font size="3">
+    <p>Conjunto sistemático de las reglas, leyes y principios que intentan explicar su funcionamiento e incluso las propias razones de su existencia. </p></font>} text/html
+:Teoría de la Información.
+{<font size="3">
+    <p>Teoría desarrollada originariamente por Shannon, que permite medir la información proporcionada por el acaecimiento de un suceso. </p></font>} text/html
+:Teoría de los costes de transacción.
+{<font size="3">
+    <p>Aquélla que considera que la empresa existe cuando la coordinación de la actividad económica que se consigue con su intervención es más eficiente que la que realiza el sistema de mercado, dado los costes de transacción que éste requiere. </p></font>} text/html
+:Teoría de los derechos de propiedad.
+{<font size="3">
+    <p>Aquella que considera a la empresa como un conjunto de contratos bilaterales. </p></font>} text/html
+:Teoría de los recursos y las capacidades.
+{<font size="3">
+    <p>Aquella que considera que las empresas son diferentes entre sí por constituir conjuntos de recursos y capacidades diferentes de cualesquiera otros, lo que las hace únicas y explica las diferencias existentes entre sus resultados. </p></font>} text/html
+:Teoría del empresario control.
+{<font size="3">
+    <p>Aquella según la cual el empresario es quien dirige la empresa. </p></font>} text/html
+:Teoría del empresario innovador.
+{<font size="3">
+    <p>Aquella según la principal función del empresario es innovar, es de, aplicar las invenciones tecnológicas a usos comerciales o industriales. </p></font>} text/html
+:Teoría del empresario riesgo.
+{<font size="3">
+    <p>Aquella según la cual la principal función del empresario es la asunción de riesgos. </p></font>} text/html
+:Teoría neoclásica.
+{<font size="3">
+    <p>Aquélla que contempla la empresa como una &quot;caja negra&quot;. </p></font>} text/html
+:Test de concepto.
+{<font size="3">
+    <p>Instrumento de análisis de viabilidad para obtener información sobre cómo percibirán los consumidores el producto, consistente en encuestar a varios grupos de personas a las que previamente se les informa sobre el producto todavía no desarrollado. </p></font>} text/html
+:Tests de reconocimiento.
+{<font size="3">
+    <p>Encuestas en las que se pregunta a las personas si han visto el anuncio en un determinado medio, o con qué marca asocian un producto o una necesidad, etc. </p></font>} text/html
+:Tests de recuerdo.
+{<font size="3">
+    <p>Encuestas en las que se pide a las personas que describan el anuncio. </p></font>} text/html
+:Tiempo early de un nudo.
+{<font size="3">
+    <p>Número mínimo de unidades de tiempo que es necesario para alcanzar la situación representada por ese nudo. </p></font>} text/html
+:Tiempo estándar.
+{<font size="3">
+    <p>Resultado de añadir un tiempo suplementario al tiempo normalizado. </p></font>} text/html
+:Tiempo last de un nudo.
+{<font size="3">
+    <p>Momento más tardío en el que es admisible llegar a la situación descrita por ese nudo de modo que no se retrase la ejecución del proyecto sobre el mínimo imprescindible. </p></font>} text/html
+:Tiempo normalizado.
+{<font size="3">
+    <p>Resultado de multiplicar el tiempo observado por el grado de eficiencia. </p></font>} text/html
+:Tiempos predeterminados
+{<font size="3">
+    <p>Los que figuran en una relación estandarizada de movimientos básicos junto con sus tiempos de ejecución. </p></font>} text/html
+:Tipo de rendimiento interno, tasa interna de rentabilidad, TIR, tasa de retorno, o rentabilidad de una inversión.
+{<font size="3">
+    <p>Tipo de descuento, </p></font><em><font size="3" face="Arial,Arial"><font size="3" face="Arial,Arial">r</font></font><font size="3">, que hace su valor actual neto igual a cero. </font></em>} text/html
+:Tipo libre de riesgo.
+{<font size="3">
+    <p>Rentabilidad de los activos que carecen de riesgo. </p></font>} text/html
+:Utilidad de forma.
+{<font size="3">
+    <p>La creada mediante la conversión de materias primas y otros factores de producción, en productos terminados. </p></font>} text/html
+:Utilidad de lugar
+{<font size="3"><font size="3">
+      <p>La que se crea poniendo el producto a disposición del consumidor donde éste desea adquirirlo. </p></font></font>} text/html
+:Utilidad de propiedad.
+{<font size="3">
+    <p>La que se crea disponiendo la transferencia del dominio del vendedor al comprador. </p></font>} text/html
+:Utilidad de tiempo.
+{<font size="3">
+    <p>La que se crea poniendo el producto a disposición del consumidor cuando éste desea adquirirlo. Precisa investigar lo que el consumidor deseará en fechas futuras. </p></font>} text/html
+:Valor actual neto.
+{<font size="3">
+    <p>Diferencia entre el valor actual de una inversión y su desembolso inicial. </p></font>} text/html
+:Valor actual.
+{<font size="3">
+    <p>Equivalente en el momento 0 de todos los flujos de caja que genera la inversión. </p></font>} text/html
+:Valor de rendimiento.
+{<font size="3">
+    <p>Valor de todas las rentas que generará la empresa en el futuro. </p></font>} text/html
+:Valor de reposición de un bien.
+{<font size="3">
+    <p>Lo que costaría adquirir otro bien que, aunque no sea igual que aquél, puede sustituirlo por tener las mismas prestaciones y la misma capacidad de producción y de generación de rentas. </p></font>} text/html
+:Valor en funcionamiento.
+{<font size="3">
+    <p>El que tiene la empresa para quien la adquiere con la intención de continuar con el negocio. </p></font>} text/html
+:Valor sustancial.
+{<font size="3">
+    <p>Resultado de deducir las deudas de la empresa a los valores de reposición actualizados de todos su bienes y derechos. </p></font>} text/html
+:Valoración en liquidación.
+{<font size="3">
+    <p>Valoración de la empresa que realizaría quien pensara adquirirla para vender sus activos, pagar a los acreedores, y quedarse con la diferencia entre el montante así obtenido y el precio pagado por ella. </p></font>} text/html
+:Variable aleatoria.
+{<font size="3">
+    <p>Aquella de la que no se sabe qué valor tomará, sino sólo qué valores puede tomar y que probabilidad tiene cada uno de ellos. </p></font>} text/html
+:Variables de acción.
+{<font size="3">
+    <p>Las que dependen de la voluntad empresarial. </p></font>} text/html
+:Variables exógenas.
+{<font size="3">
+    <p>Las que son independientes de la voluntad de la empresa. </p></font>} text/html
+:Varianza de una variable.
+{<font size="3">
+    <p>Esperanza matemática de los cuadrados de las desviaciones de los valores probables respecto a su media. </p></font>} text/html
+:Vector de estado de un período.
+{<font size="3">
+    <p>Aquel cuyos elementos son las cuotas de mercado conseguidas por los distintos ítems en ese período. </p></font>} text/html
+:Venta personal.
+{<font size="3">
+    <p>La realizada mediante contacto personal entre el vendedor, agente o representante de la empresa, y el comprador. </p></font>} text/html
+:Ventaja competitiva.
+{<font size="3">
+    <p>Característica que permita a la empresa sostener una posición ventajosa frente a sus competidores actuales y potenciales. </p></font>} text/html
+:Vida económica.
+{<font size="3">
+    <p>Duración óptima del equipo; aquella que hace máximo su valor actual neto. </p></font>} text/html
+:Vida técnica.
+{<font size="3">
+    <p>Período de tiempo durante el cual el equipo de producción puede ser útil y producir normalmente. </p></font>} text/html

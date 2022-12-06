@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "uned-glossary-to-anki"
+version = "0.1.0"
+description = ""
+authors = ["daniarlert <arlertdaniel@gmail.com>"]
+readme = "README.md"
+packages = [{include = "uned_glossary_to_anki"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+genanki = "^0.13.0"
+
+
+[tool.poetry.group.dev.dependencies]
+black = {version = "^22.10.0", allow-prereleases = true}
+ipykernel = "^6.17.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
